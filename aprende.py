@@ -1,1 +1,1 @@
-print("Te amo mi amor");
+print("Te amo mi amorcito");
